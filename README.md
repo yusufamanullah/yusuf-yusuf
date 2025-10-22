@@ -26,3 +26,7 @@ Currently working on **ODSC 5G project**, focusing on **configuration management
 | **Others** | Linux, Jira, Excel Macros |
 
 ---
+### 🤝 Connect With Me
+📫 **Email:** mohd.yusuf.amanullah@gmail.com
+📫 **Mob No:** +91-6207581758
+📍 **Location:** Bangalore, India
